@@ -8,7 +8,7 @@ def sub(x,y):
 
 #mul header
 def multiply(x,y):
-	pass
+	return x*y
 
 #dev header
 def devide(x,y):
