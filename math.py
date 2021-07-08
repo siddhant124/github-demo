@@ -1,6 +1,6 @@
 #add header
 def add(x,y):
-	pass
+	return x+y
 
 #sub header
 def sub(x,y):
