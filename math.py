@@ -4,7 +4,7 @@ def add(x,y):
 
 #sub header
 def sub(x,y):
-	pass
+	return x-y #feature1 added
 
 #mul header
 def multiply(x,y):
